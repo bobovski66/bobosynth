@@ -111,8 +111,6 @@ Highlights:
 * Init and Panic controls
 * MIDI learn and a dedicated Oxygen Pro mapping
 
-For the Oxygen Pro map, faders 1–9 control the nine drawbars using MIDI CC 20–28. The MIDI values are reversed internally so that pushing a physical fader upward raises the corresponding drawbar level naturally.
-
 OR-2 is not a conventional Hammond-style emulation. It is closer to a polyphonic drawbar pulse synthesizer: organ logic used as the control surface for a more unusual oscillator instrument.
 
 ---
