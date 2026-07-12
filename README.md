@@ -114,4 +114,31 @@ Highlights:
 OR-2 is not a conventional Hammond-style emulation. It is closer to a polyphonic drawbar pulse synthesizer: organ logic used as the control surface for a more unusual oscillator instrument.
 
 ---
+### bobodrum DM-1
+
+A synthesized drum machine designed for aggressive electronic rhythm programming, per-voice sound destruction, and industrial production.
+
+DM-1 generates its drum sounds internally rather than relying on a conventional sample library. Each voice can be shaped independently and then pushed through its own effects, allowing the instrument to move from clean electronic percussion to heavily damaged, metallic, and machine-like textures.
+
+Highlights:
+
+* Fully synthesized drum voices
+* Dedicated controls for kick, snare, toms, hats, cymbals, and metallic percussion
+* Per-voice tuning, decay, tone, and level controls
+* Independent filtering and drive
+* Per-voice bit crushing and sample-rate reduction
+* Independent delay and feedback processing
+* China-splash-inspired metal voice
+* Built-in pattern sequencing
+* Factory and user presets
+* Large collection of industrial and experimental kits
+* A/B comparison
+* Init and Panic controls
+* Master output protected from preset recall
+* Reliable preset selection from the interface
+* Standalone and VST3 formats
+
+DM-1 was built around the idea that electronic drums should remain editable all the way down to the voice architecture. Instead of applying one distortion effect across an entire kit, each sound can be individually filtered, crushed, overdriven, delayed, and destabilized.
+
+The result is a drum machine suited to industrial music, electro, experimental rhythm, mechanical ambience, distorted percussion, and more conventional electronic drum programming when its destructive stages are used lightly.
 
