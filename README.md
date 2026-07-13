@@ -203,23 +203,6 @@ Highlights:
 
 ---
 
-## bobofx PH-1 — Massive Phaser
-
-A multi-stage phaser with deep modulation and parallel phase networks.
-
-Highlights:
-
-- 4-, 6-, 8-, and 12-stage modes
-- positive and negative feedback
-- sine, triangle, square, and random modulation
-- stereo phase offset
-- envelope-follow modulation
-- single, double, and triple Phase Mass
-- network spread and drift
-- vintage, stereo, drum, guitar, keys, industrial, and FX presets
-
----
-
 ## bobofx RM-1 — Massive Ring Modulator
 
 A wide-ranging ring-modulation and amplitude-modulation processor.
