@@ -6,8 +6,6 @@ The bobosynth instruments take ideas from analog subtractive synthesis, divide-d
 
 The bobofx series follows the same philosophy for effects: familiar audio-processing ideas are expanded through modulation, parallel signal paths, feedback, stereo motion, and the recurring idea of “Mass” — multiple related processing structures acting together.
 
-These are playable instruments and processors, not strict museum-piece emulations.
-
 ---
 
 ## Current builds
